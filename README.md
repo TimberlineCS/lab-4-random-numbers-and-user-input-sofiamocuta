@@ -4,7 +4,7 @@
 In this lab you will apply methods from the Math class to generate random numbers within a specified range.  
 You will also apply methods from the Scanner class to create a Mad Libs game. 
 
-## Code hallenge 1
+## Code Challenge 1
 
 - [ ] Your task is to create a random number generator.  Your simulator will prompt the user for two numbers.  The first number should be negative.  The second number should be greater than the absolute value of the first number.  The numbers will represent the range.  Once the input is received your program should generate two random numbers (int type) within the range specified, where the lowest number is inclusive but the highest number is not.  Consider the example below, 
 
